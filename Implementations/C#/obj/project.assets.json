@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementation\\C#\\TestApp.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementations\\C#\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementation\\C#\\TestApp.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementations\\C#\\TestApp.csproj",
       "packagesPath": "C:\\Users\\danuj\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementation\\C#\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementations\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danuj\\AppData\\Roaming\\NuGet\\NuGet.Config"
