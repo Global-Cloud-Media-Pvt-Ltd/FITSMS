@@ -65,7 +65,6 @@ We’re here to ensure your campaigns run smoothly and deliver the results you n
 
 **FitSMS.lk** | Your Trusted Bulk SMS Partner | **Sri Lanka**
 
----
 
 Proudly Powered By **Global Cloud Media (PVT) Ltd**.
 
