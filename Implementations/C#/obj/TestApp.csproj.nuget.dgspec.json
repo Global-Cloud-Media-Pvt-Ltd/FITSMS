@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danuj\\OneDrive\\Desktop\\Sample\\TestApp\\TestApp.csproj": {}
+    "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementation\\C#\\TestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danuj\\OneDrive\\Desktop\\Sample\\TestApp\\TestApp.csproj": {
+    "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementation\\C#\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danuj\\OneDrive\\Desktop\\Sample\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementation\\C#\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Users\\danuj\\OneDrive\\Desktop\\Sample\\TestApp\\TestApp.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementation\\C#\\TestApp.csproj",
         "packagesPath": "C:\\Users\\danuj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danuj\\OneDrive\\Desktop\\Sample\\TestApp\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementation\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danuj\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestApp
-build_property.ProjectDir = C:\Users\danuj\OneDrive\Desktop\Sample\TestApp\
+build_property.ProjectDir = C:\xampp\htdocs\global_cloud_media\FITSMS\Implementation\C#\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oAN9pwEZQzo=",
+  "dgSpecHash": "cBLaqAN1aP4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\danuj\\OneDrive\\Desktop\\Sample\\TestApp\\TestApp.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\global_cloud_media\\FITSMS\\Implementation\\C#\\TestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danuj\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
