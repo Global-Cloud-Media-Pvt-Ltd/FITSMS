@@ -131,7 +131,7 @@ curl --request POST \
 
 ### How to Register:
 
-- Go to API registration page to obtain your API key.
+- Go to API [registration](https://app.fitsms.lk/register) page to obtain your API key.
 - Integrate the API using the above endpoints.
 - Test using the sample requests.
 
