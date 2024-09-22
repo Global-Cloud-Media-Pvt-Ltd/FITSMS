@@ -1,15 +1,5 @@
 # Security Policy
 
-## Supported Versions
-
-We actively support and patch security vulnerabilities in the following versions of the project:
-
-| Version      | Supported          |
-| ------------ | ------------------ |
-| v1.x         | :white_check_mark: |
-| v2.x         | :white_check_mark: |
-| < v1.x       | :x:                |
-
 ## Reporting a Vulnerability
 
 To report a vulnerability, please reach us on [https://fitsms.lk](https://fitsms.lk) with details of the issue, including:
