@@ -22,8 +22,7 @@ public class fitsms {
                     "\"recipient\":\"" + RECIPIENTS + "\"," +
                     "\"sender_id\":\"" + SENDER_ID + "\"," +
                     "\"type\":\"plain\"," +
-                    "\"message\":\"This is a test message\"," +
-                    "\"schedule_time\":\"2021-12-20 07:00\"}";
+                    "\"message\":\"This is a test message\",";
 
             try (OutputStream os = conn.getOutputStream()) {
                 byte[] input = jsonBody.getBytes("utf-8");
