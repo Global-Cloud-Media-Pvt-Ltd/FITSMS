@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
+	"io"
 	"net/http"
 )
 
@@ -58,7 +58,7 @@ func sendSMS(to string, message string) {
 	defer resp.Body.Close()
 
 	// Read response
-	body, err := ioutil.ReadAll(resp.Body)
+	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		fmt.Println("Error reading response:", err)
 		return
@@ -71,3 +71,4 @@ func main() {
 	// Replace with actual phone number including country code
 	sendSMS("YOUR_NUMBER_WITH_COUNTRY_CODE", "Test Message from Go!")
 }
+
