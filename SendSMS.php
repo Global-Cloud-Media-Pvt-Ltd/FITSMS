@@ -55,7 +55,7 @@ function send_sms(string $number, string $message)
 
 //Country Code Is Mandatory  = +94
 
-send_sms('+94761695904', 'This is a test message');
+send_sms('+947XXXXXXXX', 'This is a test message');
 
 // OR For Multiple,
 // send_sms('+947XXXXXXXX, +947XXXXXXX', 'This is a test message');
